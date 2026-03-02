@@ -37,6 +37,7 @@ cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
 
 | Skill | Description | Category | Source | Added |
 |---|---|---|---|---|
+| [`openclaw-guardian`](skills/openclaw-guardian/) | 🛡️ Gateway watchdog — auto-monitor, self-repair via `doctor --fix`, git rollback, daily snapshots, Discord alerts. Built by MyClaw.ai | DevOps | [GitHub](https://github.com/LeoYeAI/openclaw-guardian) | 2026-03-02 |
 | [`algorithmic-art`](skills/algorithmic-art/) | Creating algorithmic art using p5.js with seeded randomness and interactive parameter expl... | AI Tools | [GitHub](https://github.com/anthropics/skills) | 2026-03-02 |
 | [`brand-guidelines`](skills/brand-guidelines/) | Applies Anthropic's official brand colors and typography to any sort of artifact that may ... | AI Tools | [GitHub](https://github.com/anthropics/skills) | 2026-03-02 |
 | [`canvas-design`](skills/canvas-design/) | Create beautiful visual art in .png and .pdf documents using design philosophy. You should... | AI Tools | [GitHub](https://github.com/anthropics/skills) | 2026-03-02 |
@@ -159,7 +160,6 @@ cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
 | [`chrome-devtools`](skills/chrome-devtools/) | Expert-level browser automation, debugging, and performance analysis using Chrome DevTools... | DevOps | [GitHub](https://github.com/github/awesome-copilot) | 2026-03-02 |
 | [`code-exemplars-blueprint-generator`](skills/code-exemplars-blueprint-generator/) | Technology-agnostic prompt generator that creates customizable AI prompts for scanning cod... | DevOps | [GitHub](https://github.com/github/awesome-copilot) | 2026-03-02 |
 | [`git-commit`](skills/git-commit/) | Execute git commit with conventional commit message analysis, intelligent staging, and mes... | DevOps | [GitHub](https://github.com/github/awesome-copilot) | 2026-03-02 |
-| [`openclaw-guardian`](skills/openclaw-guardian/) | Deploy and manage a Guardian watchdog process for OpenClaw Gateway. Provides automated hea... | DevOps | [GitHub](https://github.com/LeoYeAI/openclaw-guardian) | 2026-03-02 |
 | [`audit-website`](skills/audit-website/) | Audit websites for SEO, performance, security, technical, content, and 15 other issue cate... | Web Automation | [GitHub](https://github.com/squirrelscan/skills) | 2026-03-02 |
 | [`browser-use`](skills/browser-use/) | Automates browser interactions for web testing, form filling, screenshots, and data extrac... | Web Automation | [GitHub](https://github.com/browser-use/browser-use) | 2026-03-02 |
 | [`firecrawl`](skills/firecrawl/) | name: firecrawl | Web Automation | [GitHub](https://github.com/firecrawl/cli) | 2026-03-02 |

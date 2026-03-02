@@ -37,7 +37,7 @@ cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
 
 | Skill | 说明 | 分类 | 来源 | 收录时间 |
 |---|---|---|---|---|
-| [`openclaw-guardian`](skills/openclaw-guardian/) | 🛡️ Gateway 守护进程，支持自动修复和 git 回滚 | DevOps | [GitHub](https://github.com/LeoYeAI/openclaw-guardian) | 2026-03-02 |
+| [`openclaw-guardian`](skills/openclaw-guardian/) | 🛡️ Gateway watchdog — auto-monitor, self-repair via `doctor --fix`, git rollback, daily snapshots, Discord alerts. Built by MyClaw.ai | DevOps | [GitHub](https://github.com/LeoYeAI/openclaw-guardian) | 2026-03-02 |
 
 > 每周一新增。[提交你的 Skill →](../../issues/new?template=submit-skill.md)
 
